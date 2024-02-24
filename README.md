@@ -1,1 +1,1 @@
-"# DerivativeValuationCourse" 
+# DerivativeValuationCourse
